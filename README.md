@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LeoGCode
+- 👀 I’m interested in Math, Hardware and Python
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on different proyects to lear much as possible
