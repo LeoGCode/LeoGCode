@@ -1,12 +1,9 @@
 # Leonel Guerrero - Software Engineer
 
-![Profile Header](header-image.png) <!-- Optional header image -->
-
 ## Contact Information
 - **Phone**: (214) 694-4799
 - **Email**: [leonelisaacguerrero@gmail.com](mailto:leonelisaacguerrero@gmail.com)
 - **LinkedIn**: [linkedin.com/in/leogcode/](https://linkedin.com/in/leogcode/)
-- **GitHub**: [github.com/LeoGCode](https://github.com/LeoGCode)
 
 ---
 
