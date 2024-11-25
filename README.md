@@ -24,7 +24,7 @@ I'm a passionate **Software Engineer** with over 4 years of experience in develo
 
 ### Full Stack Engineer / Mobile Developer
 **TIIGRE LLC, Caracas, Venezuela**  
-*January 2024 – August 2024*
+*January 2024 – Current*
 
 - Developed and maintained mobile apps for both Android and iOS platforms using **React Native** for responsive, user-friendly designs.
 - Built and deployed full stack web applications using various technologies including **React, Angular, Vue.js, Node.js, Django, Flask, and Spring Boot**.
@@ -32,7 +32,7 @@ I'm a passionate **Software Engineer** with over 4 years of experience in develo
 
 ### Software Engineer
 **Modu LLC, Caracas, Venezuela**  
-*April 2022 – October 2023*
+*January 2022 – December 2023*
 
 - Mastered a diverse tech stack, including **HTML, CSS, JavaScript, React, Node.js, and React Native**.
 - Created a cross-platform mobile application using **React Native**, enhancing product accessibility.
